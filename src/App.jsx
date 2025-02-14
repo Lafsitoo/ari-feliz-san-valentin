@@ -3,13 +3,13 @@ import Title from "./assets/title.png";
 import Left from "./assets/left.png";
 import Right from "./assets/right.png";
 import Heart from "./assets/heart.svg";
-import GifOne from "./assets/hugs-and-kisses-snoopy.gif";
-import GifTwo from "./assets/love-you-sissy.gif";
+import GifOne from "./assets/peach-goma.gif";
+import GifTwo from "./assets/peluk.gif";
 import GifThree from "./assets/love-you.gif";
 import { useState} from "react";
 import GifSadOne from "./assets/goal.gif"
 import GifSadTwo from "./assets/sorry.gif"
-import GifSadThree from "./assets/cat-crying-cat.gif"
+import GifSadThree from "./assets/killua.gif"
 
 function App() {
   const messages = [
@@ -151,7 +151,7 @@ function App() {
             una página dorada en mi historia, y solo quiero seguir escribiendo
             contigo.
           </p>
-          <p id="grand-text">te amo muuusho</p>
+          <p id="grand-text">te amo muuucho</p>
         </div>
       </div>
 
