@@ -78,7 +78,7 @@ function App() {
         <div className="content">
           <h2>¡ERES LA PERSONA INDICADA! ✨</h2>
           <p>
-            Se ha descubierto que <span id="red-text">Romeli</span> es la
+            Se ha descubierto que <span id="red-text">Arii</span> es la
             persona más especial del universo. Su sonrisa tiene el poder de
             iluminar cualquier día, su ternura derrite corazones y su presencia
             convierte lo cotidiano en algo mágico. Fuentes cercanas confirman
@@ -157,7 +157,7 @@ function App() {
 
       <hr />
 
-      <h3>❤️ R&A - I will love you forever ❤️</h3>
+      <h3>❤️ A&A - I will love you forever ❤️</h3>
       <div className="banner">
         <span className="footer-text">
           Detallito humilde creado con musho amor por Ari, para su persona
