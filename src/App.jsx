@@ -160,7 +160,7 @@ function App() {
       <h3>❤️ A&A - I will love you forever ❤️</h3>
       <div className="banner">
         <span className="footer-text">
-          Detallito humilde creado con musho amor por Ari, para su persona
+          Detallito humilde creado con mucho amor por Ari, para su persona
           especial y que ama con todo su corazón. Si lees esto <span>¿Quieres casarte
           conmigo?
         </span></span>
